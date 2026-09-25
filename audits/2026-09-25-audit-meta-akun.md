@@ -6,6 +6,8 @@
 - **Blueprint / DNA akun:** DATA TIDAK TERSEDIA. Repo ini belum punya Blueprint, jadi audit ini menjadi baseline pertama.
 - **Perubahan yang dieksekusi:** tidak ada. Audit ini hanya membaca data.
 
+> **Koreksi (25 Sep 2026):** KPI akun ini adalah **CPR = biaya per percakapan WA**, bukan purchase. Purchase memang tidak diharapkan tercatat di Meta. Karena itu, T1 dan tindakan #1–#2 di bawah **dicabut**. Rekap versi terbaru ada di `2026-09-25-rekap.md`.
+
 ---
 
 ## 0. Cakupan akun
